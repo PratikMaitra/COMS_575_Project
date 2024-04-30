@@ -1,0 +1,202 @@
+{
+    "os": "Linux-6.5.0-28-generic-x86_64-with-glibc2.38",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-04-30T12:41:19.702735",
+    "startedAt": "2024-04-30T12:41:19.639471",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/prati/COMS_575_Project/Train_Model_yolo8l.py",
+    "codePathLocal": "Train_Model_yolo8l.py",
+    "codePath": "Train_Model_yolo8l.py",
+    "host": "prati-desktop",
+    "username": "prati",
+    "executable": "/home/prati/anaconda3/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 1.7825937499999995,
+        "min": 400.0,
+        "max": 5881.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.47,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.134,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.489,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.473,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.265,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.278,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.165,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 4.403,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.487,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.513,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.512,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.515,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.514,
+            "min": 400.0,
+            "max": 5881.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 3665.4150924682617,
+            "used": 1268.2147407531738
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 93.43285751342773
+    }
+}

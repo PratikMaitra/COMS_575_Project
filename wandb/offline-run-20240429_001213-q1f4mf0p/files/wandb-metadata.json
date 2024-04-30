@@ -1,0 +1,202 @@
+{
+    "os": "Linux-6.5.0-28-generic-x86_64-with-glibc2.38",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-04-29T05:12:13.447543",
+    "startedAt": "2024-04-29T05:12:13.378627",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/prati/CRICKET_BALL_DETECT/BALL_TRACKER.py",
+    "codePathLocal": "BALL_TRACKER.py",
+    "codePath": "BALL_TRACKER.py",
+    "host": "prati-desktop",
+    "username": "prati",
+    "executable": "/home/prati/anaconda3/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 1.4681874999999993,
+        "min": 400.0,
+        "max": 5881.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.516,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.5,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.572,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 4.593,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.591,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.401,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.47,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.485,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 4.609,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 5.023,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 3.428,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        },
+        {
+            "current": 0.4,
+            "min": 400.0,
+            "max": 5881.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 3665.4150924682617,
+            "used": 1215.5762100219727
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 93.43285751342773
+    }
+}

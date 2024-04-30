@@ -1,0 +1,14 @@
+train: /home/prati/COMS_575_Project/dataset/Dataset1/train/images  # Path to training images
+val: /home/prati/COMS_575_Project/dataset/Dataset1/valid/images    # Path to validation images
+test: /home/prati/COMS_575_Project/dataset/Dataset1/test/images    # Path to test images
+
+
+nc: 3
+names: ['Cricket ball', 'Stumps', 'ball']
+
+roboflow:
+  workspace: speedgun
+  project: hawkeye-ykvxp
+  version: 16
+  license: Public Domain
+  url: https://universe.roboflow.com/speedgun/hawkeye-ykvxp/dataset/16
