@@ -35,6 +35,6 @@ To get started with the project, follow these steps:
 
 The results including the graphs are provided in the 'stats' folder.
 
-##License
+## License
 
 Feel free to adapt this template to meet the specific needs of your project!
