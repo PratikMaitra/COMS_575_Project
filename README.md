@@ -37,4 +37,4 @@ The results including the graphs are provided in the 'stats' folder.
 
 ## License
 
-Feel free to adapt this template to meet the specific needs of your project!
+This is a open source project which is intended to be shared and tested by every cricket enthusiast. Have fun !!!
