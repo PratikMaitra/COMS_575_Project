@@ -20,6 +20,9 @@ plt.ylabel('Performance Metrics')
 plt.title('Performance Comparison of YOLO Models (All Classes)')
 plt.legend()
 plt.grid(True)
+
+plt.savefig('yolo_all_class.png', bbox_inches='tight')
+
 plt.show()
 
 ##########################################################3
@@ -41,4 +44,8 @@ plt.ylabel('Performance Metrics')
 plt.title('Performance Comparison of YOLO Models (Cricket Ball Class)')
 plt.legend()
 plt.grid(True)
+
+plt.savefig('yolo_cricketball_class.png', bbox_inches='tight')
+
+
 plt.show()
