@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PratikMaitra/COMS_575_Project.git   ```
+   git clone https://github.com/PratikMaitra/COMS_575_Project.git
 
 2. To train the models from scratch, use the scripts from the trainer_script folder.
 3. To view the results use the Test image script.
@@ -35,6 +35,6 @@ To get started with the project, follow these steps:
 
 The results including the graphs are provided in the 'stats' folder.
 
-##License
+## License
 
-Feel free to adapt this template to meet the specific needs of your project!
+This is a open source project which is intended to be shared and tested by every cricket enthusiast. Have fun !!!
