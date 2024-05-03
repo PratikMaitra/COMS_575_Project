@@ -1,6 +1,6 @@
 # COMS_575_Project
 
-# Cricket Ball Tracking and Detection System
+# Cricket Ball Tracking and Decision Review System
 
 ## Abstract
 The application and use of artificial intelligence have expanded greatly in recent years. Following this growing trend, this project focuses on accurately tracking and detecting cricket balls in static images. The primary goal is to develop an open-source and interactive cricket ball tracking system, utilizing pre-existing resources like YOLO and other state-of-the-art object detection systems. The ultimate aim is to provide an open-source counterpart to professional Decision Review Systems (DRS), such as Hawk-eye.
@@ -8,10 +8,8 @@ The application and use of artificial intelligence have expanded greatly in rece
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -19,13 +17,24 @@ This project leverages artificial intelligence for accurate cricket ball detecti
 
 ## Features
 - Accurate detection and tracking of cricket balls
-- Leverages state-of-the-art object detection models like YOLO
-- Open-source and easily extensible for research and development
-- Aims to replicate the capabilities of professional DRS systems
+- Leverages state-of-the-art object detection models like YOLO v8
+- Open-source, light-weight and easily extensible for research and development
 
-## Installation
+
+## Usage
 To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cricket-ball-tracking.git
+   git clone https://github.com/PratikMaitra/COMS_575_Project.git   ```
+
+2. To train the models from scratch, use the scripts from the trainer_script folder.
+3. To view the results use the Test image script.
+
+## Results
+
+The results including the graphs are provided in the 'stats' folder.
+
+##License
+
+Feel free to adapt this template to meet the specific needs of your project!
