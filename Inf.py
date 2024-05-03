@@ -2,7 +2,7 @@ import numpy as np
 import supervision as sv
 from ultralytics import YOLO
 
-model = YOLO("runs/detect/my_custom_save/yolov8m_saved_weights.pt")
+model = YOLO("runs/detect/my_custom_save/yolov8n_saved_weights.pt")
 box_annotator = sv.BoundingBoxAnnotator()
 
 def callback(frame: np.ndarray, _: int) -> np.ndarray:

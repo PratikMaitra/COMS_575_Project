@@ -64,7 +64,7 @@ def clear_canvas():
 
 
 models = {
-    "Custom Yolo8m": "runs/detect/my_custom_save/yolov8m_saved_weights.pt",
+    "Custom Yolo8m": "runs/detect/my_custom_save/yolov8n_saved_weights.pt",
     "Custom Yolo8n": "path/to/your/model2.pt",
     "Custom Yolo8l": "path/to/your/model3.pt"
 }
