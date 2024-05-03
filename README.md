@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PratikMaitra/COMS_575_Project.git   ```
+   git clone https://github.com/PratikMaitra/COMS_575_Project.git
 
 2. To train the models from scratch, use the scripts from the trainer_script folder.
 3. To view the results use the Test image script.
