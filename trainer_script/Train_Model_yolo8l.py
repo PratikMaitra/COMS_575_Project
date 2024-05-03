@@ -5,12 +5,12 @@ from ultralytics import YOLO
 import torch  
 torch.cuda.empty_cache()  
 
-model = YOLO("yolov8m.pt")  
+model = YOLO("yolov8l.pt")  
 
 
 model.train(
-    data="./DATASET/Dataset1/data.yaml",  
-    epochs=5,  
+    data="./dataset/Dataset1/data.yaml",  
+    epochs=25,  
     batch=1,  
     imgsz=640, 
     patience=10,  
@@ -20,17 +20,8 @@ model.train(
 
 metrics = model.val()  
 
-model.save("runs/detect/my_custom_save/yolov8m_saved_weights.pt")  
+model.save("runs/detect/my_custom_save/yolov8l_saved_weights.pt")  
 
 
-results_predict = model("DATASET/sample1.jpg") 
-
-if isinstance(results_predict, list):
-    for result in results_predict:
-        result.show()  
-else:
-    
-    results_predict.show()
-    
 
 torch.cuda.empty_cache()  
